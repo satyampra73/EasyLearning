@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/drawable/buttonbg.xml" value="0.127" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/drawable/gradientbg.xml" value="0.127" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_english_tips.xml" value="0.265625" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_home.xml" value="0.265625" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_hrinterview.xml" value="0.265625" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_login.xml" value="0.1925925925925926" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_main.xml" value="0.265625" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_otpactivity.xml" value="0.265625" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_tongue_twister.xml" value="0.265625" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/activity_web_view_data.xml" value="0.265625" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/fragment_profile.xml" value="0.265625" />
+        <entry key="..\:/Android_Studio_Projects/Company_Work/Call System/Speakify/app/src/main/res/layout/progress_dialog.xml" value="0.265625" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable-v24/arrow_back.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable-v24/button_shape_bg_white.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable-v24/home_box_bg.xml" value="0.1415" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable-v24/ic_arrow_drop_down_black_24dp.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable-v24/ic_india.xml" value="0.153" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable-v24/toolbar_dropshadow.xml" value="0.1415" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/about.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/account.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/bg_white_round.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/borderbg.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/buttonbg.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/call_buttonbg.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/et_background.xml" value="0.13" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/genderbg.xml" value="0.1395" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/gradientbg.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/home_gradient.xml" value="0.14" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/ic_baseline_chat_bubble_24.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/ic_home.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/play_buttonbg.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/rate_app.xml" value="0.1345" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/drawable/share_app.xml" value="0.1" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_basic_grammar.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_contact_us.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_daily_conversation.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_english_tips.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_gender.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_general_guidelines.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_hr_question_description.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_hrinterview.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_otpactivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_payment_history.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_remove_ads.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_tongue_twister.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/activity_web_view_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/bg_white_round.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/daily_conversation_dialog.xml" value="0.18" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/daily_conversation_dialog2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/daily_conversation_dialog_view.xml" value="0.16666666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/daily_conversation_view.xml" value="0.203125" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/english_tips.xml" value="0.203125" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/english_tips_view.xml" value="0.33" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/fragment_learn.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/hr_interview_qus_view.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/name_edit_dialog.xml" value="0.203125" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/notification.xml" value="0.16666666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/progress_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/layout/tongue_twist_view.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/Speakify/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/drawable-v24/button_shape_bg_white.xml" value="0.132" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/drawable-v24/ic_arrow_drop_down_black_24dp.xml" value="0.132" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/drawable-v24/ic_india.xml" value="0.132" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/drawable/buttonbg.xml" value="0.132" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/drawable/gradientbg.xml" value="0.144" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/drawable/layoutbg.xml" value="0.144" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/layout/activity_otpactivity.xml" value="0.25" />
+        <entry key="..\:/Satyam/Working_Projects/VOICE_CALL_WORK/speakify/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.db.easylearning">
+
+    <uses-permission android:name="android.hardware.sensor.proximity" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/appicon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Speakify"
+        tools:targetApi="32">
+        <activity
+            android:name="com.db.easylearning.ShareActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.db.easylearning.ReportUserActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.db.easylearning.NoInternetActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.db.easylearning.NotificationActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.db.easylearning.voicecalling.PlaceCallActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.db.easylearning.PaymentHistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.ContactUsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.RemoveAdsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.GenderActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.db.easylearning.HrQuestionDescription"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.db.easylearning.WebViewData"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.HRInterviewActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.BasicGrammarActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.DailyConversationActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.EnglishTipsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.TongueTwisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.SignUp"
+            android:exported="true" />
+        <activity
+            android:name="com.db.easylearning.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.OTPActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.db.easylearning.LoginActivity"
+            android:exported="true" />
+
+        <service
+            android:name="com.db.easylearning.apphelper.FirebaseMessageReciever"
+            android:exported="false"
+            android:permission="TODO"
+            android:stopWithTask="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service> <!-- test id -->
+        <!-- <meta-data -->
+        <!-- android:name="com.google.android.gms.ads.APPLICATION_ID" -->
+        <!-- android:value="ca-app-pub-3940256099942544~3347511713" /> -->
+        <!-- real id -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+
+        <service android:name="com.db.easylearning.voicecalling.SinchService" />
+
+        <activity
+            android:name="com.db.easylearning.voicecalling.SinchLoginActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.db.easylearning.voicecalling.CallScreenActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.db.easylearning.voicecalling.IncomingCallScreenActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

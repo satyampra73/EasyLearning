@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Easy Learning</string>
+    <string name="title_home">Home</string>
+    <string name="title_learn">Learn</string>
+    <string name="title_Profile">Profile</string>
+    <string name="banner_add_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="english_ans_tip1">Do not expect your english to be as good as that of a native speaker soon after taking up the Language.</string>
+
+    <string name="daily_conversation">A: Hey What’s up! Just checking in. What you doing?\n\nB. Just finishing up things at school. I’ve got a paper due tomorrow, but, it’s almost done. Maybe another hour.\n\nA. Ah Cool. What’s it about? I miss school.\n\nB. Actually, its an economics paper about democracy.\n\nA. Ohhhh. That sounds brutal. haha.\n\nB. Brutal but interesting. I don’t mind it. So.. what you doing? A. Well. Just finished work, hitting up a dance class and then maybe dinner. Want to meet up?\n\nB. Let’s play it by ear. A. Sure. I probably won’t go until later. 8 or 9-ish.\n\nB. Sweet. That’s great. Pizza and a pint?\n\nA. Perfect. We can meet downtown. B. Okay. See you soon.</string>
+    <string name="popular_ideams">Acid text proves the effectiveness of Something\nI Practiced hard at the dance sessions but the acid test will come when the master will assess our solo performance</string>
+    <string name="general_guidelines">Despite specific information employers would like to have, they must avoid asking discriminatory questions in interviews or on application forms and resist basing an<b> applicant\'s evaluation on criteria that are discriminatory in nature</b>. Many discrimination complaints and lawsuits stem from interviews and application forms.\n\n Given that the cost for an employer to defend itself against a claim of illegal employment discrimination can be several hundred thousand dollars, an employer must be sure it conducts lawful interviews and uses application forms that have been thoroughly \"reviewed\" to exclude requests for prohibited information.\n\nDespite specific information employers would like to have, they must avoid asking discriminatory questions in interviews or on application forms and resist basing an<b> applicant\'s evaluation on criteria that are discriminatory in nature</b>. Many discrimination complaints and lawsuits stem from interviews and application forms.\n\n Given that the cost for an employer to defend itself against a claim of illegal employment discrimination can be several hundred thousand dollars, an employer must be sure it conducts lawful interviews and uses application forms that have been thoroughly \"reviewed\" to exclude requests for prohibited information</string>
+
+    <string name="hr_Traps"><b>TRAPS :</b> Beware, about 80% of all interviews begin with this “innocent” question. Many candidates, unprepared for the question, skewer themselves by rambling, recapping their life story, delving into ancient work history or personal matters.</string>
+
+    <string name="hr_best_answer" tools:ignore="StringEscaping"><b>BEST ANSWER :</b>Start with the present and tell why you are well qualified for the position. Remember that the key to all successful interviewing is to match your qualifications to what the interviewer is looking for. In other words you must sell what the buyer is buying. This is the single most important strategy in job hunting.\n\nStart with the present and tell why you are well qualified for the position. Remember that the key to all successful interviewing is to match your qualifications to what the interviewer is looking for. In other words you must sell what the buyer is buying. This is the single most important strategy in job hunting.</string>
+
+
+</resources>

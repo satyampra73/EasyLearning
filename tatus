@@ -1,0 +1,323 @@
+[33mcommit 96703b142aa48cf3c78cc7bd37134656ac7cbc68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sun Oct 16 20:35:47 2022 +0530
+
+    ads problem is now fixed
+
+[33mcommit dccdbc7efe020d1c2e810172663e81669bacdaf7[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Oct 15 18:24:41 2022 +0530
+
+    login ui changed
+
+[33mcommit aa442bb7fae0d095d57e92ecef54628955bfba5a[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Oct 15 17:10:23 2022 +0530
+
+    some userInterface upgraded
+
+[33mcommit f8bd9a7a2ac14f5af37644dcd6173bce3bb3c7c3[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Oct 15 13:03:07 2022 +0530
+
+    remove ads ui is changed
+
+[33mcommit f603ced8f979093afbed7cd2457f442c66c4e1de[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Oct 14 14:45:54 2022 +0530
+
+    some ui changes done
+
+[33mcommit f653ca6eb44a3353a29e6a675ba33a35b1ed5a00[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Thu Oct 13 16:38:58 2022 +0530
+
+    home ads  purchase logic is integrated
+
+[33mcommit d8404634bb2be969f24c76db0a8d3aeb96e673b9[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Oct 12 14:56:07 2022 +0530
+
+    Payment History api integrated
+
+[33mcommit 17c19ec4016838881621fcbe9ee6224ebde5ce3e[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Oct 12 13:25:33 2022 +0530
+
+    some gradle updates done
+
+[33mcommit bd200287b52cb7b3560c586b62e9ca601d2cabd0[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Oct 12 12:29:35 2022 +0530
+
+    plan purchese api is integrated
+
+[33mcommit 9d2c55227fea573ddabf4a51dcd854324b117634[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Tue Oct 11 15:12:47 2022 +0530
+
+    all plans api integrated
+
+[33mcommit 7c503e4c02623b902a563551bac8aba089d50a63[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Oct 8 18:02:20 2022 +0530
+
+    permision problem resolved
+
+[33mcommit b75dc7ee1b2fe7e67e8bea3bc150a6a08317f66d[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Oct 8 16:33:04 2022 +0530
+
+    apis are attached for calling
+
+[33mcommit 531b785ae713aa63d7c351ff582d42a87dcadb8c[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Oct 7 13:06:42 2022 +0530
+
+    some call related changes done and gradle updated
+
+[33mcommit c77c5a102b0fae8fbb8953f6947f519c8f5c1f8d[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Thu Oct 6 18:22:25 2022 +0530
+
+    sinch attched and static call are working
+
+[33mcommit f7f4688c2bebb27effdc5c863222badb81a9296b[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Tue Oct 4 15:59:28 2022 +0530
+
+    sinch sdk attached for voice calling
+
+[33mcommit e6bed9e3e99ef5c29a59a2c51cef4eab15f63182[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Sep 23 17:39:22 2022 +0530
+
+    some minor modification done
+
+[33mcommit 5fbc6c02e54540cb31f3eb7323f745e83cdd76d2[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Sep 23 15:36:01 2022 +0530
+
+    Arrow related problem solved on profile fragement and Daily Conversation
+
+[33mcommit 9df836c71bccbe5c57a3a1c45659410efd452328[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Sep 21 16:11:41 2022 +0530
+
+    token stored on shared preference
+
+[33mcommit 0d80e5c3d90aa9c764d4ea9705a8394b2907493c[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Sep 21 15:16:15 2022 +0530
+
+    Firebase Notification integrated
+
+[33mcommit fbe3f18535d4f69ba80ced4af10042ba8955039d[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Sep 17 13:50:14 2022 +0530
+
+    one class removed
+
+[33mcommit 8c8950c7ed742d019eca423c6cbf5774cddf5953[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Sep 17 13:16:04 2022 +0530
+
+    gender position problem is resolved
+
+[33mcommit 6f39e600b2a841ede2688d75488001668eac01fd[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Sep 16 14:38:37 2022 +0530
+
+    Tounge twister ui block problem resolved
+
+[33mcommit 2ffc61e7ac4069dbde6e45c990a789b9e8436855[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Sep 16 12:32:20 2022 +0530
+
+    some Preference relted modification done in profile fragment
+
+[33mcommit adcfd320d0f767cac7654dffdcc100f115f38b7b[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Sep 14 18:19:07 2022 +0530
+
+    razorpay Introduced in project
+
+[33mcommit 4b8da4eddbf4bc062bca127a502b1f7575acaeab[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Sep 10 13:50:43 2022 +0530
+
+    two layouts created
+
+[33mcommit 65cdecba92b1788e730b998b85bcbd3c2e3ea657[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Sep 9 18:13:40 2022 +0530
+
+    remove ads layout done
+
+[33mcommit b34a2267de33faca9035e8aeefde6130c6a0034d[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Sep 9 16:49:29 2022 +0530
+
+    some refactoring done
+
+[33mcommit 0797edf0fcad607b89586872ad4861f67929555a[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Sep 9 11:57:00 2022 +0530
+
+    dialog box is now groble as dialog progress
+
+[33mcommit 3e3c713dc9a27183daadf054f4704888af2fed9a[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Thu Sep 8 17:43:44 2022 +0530
+
+    payment history added
+
+[33mcommit 7ff12c9dc81640eda89261adaf20e06e57b820be[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Aug 26 14:51:16 2022 +0530
+
+    Contact us and other profile related apis done
+
+[33mcommit 2afe2752c9781467c68c3cdc479a5f57b2084332[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Thu Aug 25 18:15:57 2022 +0530
+
+    Hr Interview Api integrated
+
+[33mcommit 9067b6cb9e69aeea91d1dc33f476901b4f036741[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Thu Aug 25 14:00:57 2022 +0530
+
+    HrInterview APi Integrated
+
+[33mcommit 9cd5002bb99bb4c7be832d77da2c0ac00c040adb[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Aug 24 18:19:11 2022 +0530
+
+    Integrating English grammer Apis
+
+[33mcommit 159da5e2308af7036722c6104a8596795bca5c96[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Aug 24 15:29:40 2022 +0530
+
+    dialog is text as attributed text
+
+[33mcommit a447f048250e5150e3445e34ced6ecdf29863f14[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Tue Aug 23 18:21:45 2022 +0530
+
+    Banner Ads Attached and Dark theme removed
+
+[33mcommit 56e2a98c674b3c3b6642a5cf4add23777e1feb59[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Tue Aug 23 14:28:24 2022 +0530
+
+    black Theme Removed
+
+[33mcommit 6083da9584c63183adbd45c7279f6eb897c492b5[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Mon Aug 22 18:06:00 2022 +0530
+
+    Login and SignUp Done for this App with shared Preference
+
+[33mcommit 869c1cae09c1aecf320c04201e4b06a57aeba73e[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Mon Aug 22 10:10:08 2022 -0700
+
+    login integrated as EmailLogin
+
+[33mcommit 3a7df3f6a6d01785f5cf0f9c79887c2886834622[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Aug 20 14:21:40 2022 +0530
+
+    code written for Api
+
+[33mcommit d94538d24df1e7cd5edc8af567bd53c89aa04832[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Aug 19 18:09:23 2022 +0530
+
+    sound is playing in Tounge Twister
+
+[33mcommit 3dc35b79bfd31107bb2dabcd7e6cd28154f37418[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Thu Aug 18 18:07:46 2022 +0530
+
+    Api are attached
+
+[33mcommit b81151e312cb5bf2b80946f75485981d6e9aa527[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Thu Aug 18 14:18:51 2022 +0530
+
+    recycler english tips added
+
+[33mcommit 59f46f7806262143255b605fd73e0362c8d1d322[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Thu Aug 18 11:01:15 2022 +0530
+
+    hr Question module is done
+
+[33mcommit 5ac2a96d7acb4f1b3e58a1c6ab43fe2a71de9313[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Tue Aug 16 16:03:11 2022 +0530
+
+    logo attached with main acticity and basic grammer inner layout is Created
+
+[33mcommit fe039aa9fee06abceaeae07ee842c69499219786[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Mon Aug 15 14:54:34 2022 +0530
+
+    OTP Varification Authentication done
+
+[33mcommit dcba74994569268d7522cf1ed24e7c7ea45f4298[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Aug 13 14:15:51 2022 +0530
+
+    some Updates done
+
+[33mcommit cc0508805b19d336f9468e6aa2070988ffb16211[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Aug 12 22:27:39 2022 -0700
+
+    Some Modification done
+
+[33mcommit 260b68ae699907f0a32d71ff5bb68acd638b524c[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Wed Aug 10 17:06:17 2022 +0530
+
+    5 designs are created for Learn Fragment
+
+[33mcommit 595aa3f4711a22383eb26c71949aea1e6c0b1fc3[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Tue Aug 9 18:05:35 2022 +0530
+
+    Home Learn and Profile Tab Created with Layout Design
+
+[33mcommit 20cc2e523a600907d4fda29256cc6307a60ea158[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Mon Aug 8 18:12:25 2022 +0530
+
+    google sign in implemented
+
+[33mcommit c7070d8ae1f35e106172fda1922fb4410f681649[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sun Aug 7 06:57:02 2022 -0700
+
+    some modification done
+
+[33mcommit 4c515b1d3af98803990fa1473f27c58044cabefc[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Sat Aug 6 14:08:31 2022 +0530
+
+    Otp Login,Sign Up created
+
+[33mcommit f80c28af102d2b0138935094d74e37882c10b93a[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Aug 5 17:48:56 2022 +0530
+
+    project has been added to firebase
+
+[33mcommit 7f8d477e9ebb271b31171b24ba0c7ae1481a2d62[m
+Author: Satyam Prajapati <satyam7355pra@gmail.com>
+Date:   Fri Aug 5 17:01:03 2022 +0530
+
+    initial commit by Satyam

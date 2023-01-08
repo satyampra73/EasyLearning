@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "992061098984",
+    "project_id": "easylearningdb",
+    "storage_bucket": "easylearningdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992061098984:android:c8a282173ec5fc9ce9f25d",
+        "android_client_info": {
+          "package_name": "com.db.easylearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992061098984-o22566kl9t0i20qm47ciiosq0u0l0res.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.db.easylearning",
+            "certificate_hash": "ecbf8980f78e4ab417b1e79dcf7574a07940cc43"
+          }
+        },
+        {
+          "client_id": "992061098984-4vscqbhhs65upulck9slkau2fff7o48b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNpNedfF9MZ56TLl1x7K46WXFmi_LhfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992061098984-4vscqbhhs65upulck9slkau2fff7o48b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
