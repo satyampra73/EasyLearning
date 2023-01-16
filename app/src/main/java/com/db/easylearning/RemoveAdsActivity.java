@@ -227,7 +227,7 @@ public class RemoveAdsActivity extends AppCompatActivity implements PaymentResul
          * Instantiate Checkout
          */
         checkout = new Checkout();
-        checkout.setKeyID("rzp_live_coLKCi96oheFss");
+        checkout.setKeyID("rzp_live_r5kljMeHUbXgFw");
         /**
          * Set your logo here
          */
@@ -244,14 +244,13 @@ public class RemoveAdsActivity extends AppCompatActivity implements PaymentResul
         try {
             JSONObject options = new JSONObject();
 
-            options.put("name", "Speakify");
+            options.put("name", "EasyLearning");
             options.put("description", "Membership Purchase");
             options.put("image", "https://s3.amazonaws.com/rzp-mobile/images/rzp.png");
 //          options.put("order_id", "order_DBJOWzybf0sJbb");//from response of step 3.
             options.put("theme.color", "#3399cc");
             options.put("currency", "INR");
             options.put("amount", amount * 100);//pass amount in currency subunits
-            options.put("prefill.email", "Speakify@example.com");
             JSONObject retryObj = new JSONObject();
             retryObj.put("enabled", true);
             retryObj.put("max_count", 4);

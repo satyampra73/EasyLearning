@@ -25,8 +25,8 @@ import java.util.Date;
 
 public class AppConstants {
     private static Dialog dialog;
-    public static final String SPEAKIFY_API_KEY = "SPEAKIFY-API-KEY";
-    public static final String SPEAKIFYKEYVALUE = "25ab96eb73074ed4ecaaa3ec09c1b5f5c482966f";
+    public static final String SPEAKIFY_API_KEY = "EASYLEARNING24-API-KEY";
+    public static final String SPEAKIFYKEYVALUE = "195c40a3b97e56fe4c699da5d88b5b0bdf3823d5";
 //    //rewarded Test
 //    public static final String AddUnitId ="ca-app-pub-3940256099942544/5224354917";
 

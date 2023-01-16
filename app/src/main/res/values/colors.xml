@@ -3,23 +3,23 @@
 
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_100">#E9DBFB</color>
-    <color name="purple_500">#F70000</color>
-    <color name="purple_700">#FC8019</color>
-    <color name="teal_200">#FC8019</color>
-    <color name="teal_700">#FF018786</color>
+    <color name="purple_500">#F8931D</color>
+    <color name="purple_700">#017491</color>
+    <color name="teal_200">#017491</color>
+    <color name="teal_700">#017491</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="blue">#FC8019</color>
-    <color name="purple">#F70000</color>
+    <color name="blue">#017491</color>
+    <color name="purple">#F8931D</color>
     <color name="light_grey"> #f0f5f5</color>
     <color name="stroke_bg"> #787878</color>
 
-    <color name="sinch_purple">#F70000</color>
+    <color name="sinch_purple">#F8931D</color>
     <color name="off_white">#fffafafa</color>
     <color name="greyish">#fff2f1f2</color>
-    <color name="gifcolor">#FC8019</color>
+    <color name="gifcolor">#017491</color>
 
-    <color name="red_color">#EF2531</color>
+    <color name="red_color">#F8931D</color>
     <color name="green_color">#4CBD55</color>
 
     //plan card colors
@@ -28,5 +28,8 @@
     <color name="third_color">#2FD2B9</color>
 
     <color name="green">#228E1E</color>
+    <color name="app_orange">#F8931D</color>
+    <color name="app_red">#DF126F</color>
+    <color name="app_blue">#017491</color>
 
 </resources>

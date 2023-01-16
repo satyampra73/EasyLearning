@@ -231,6 +231,7 @@
         android:layout_height="wrap_content"
         android:checked="true"
         android:textSize="13sp"
+        android:visibility="gone"
         android:backgroundTint="@color/red"
         android:text="Male"/>
 
@@ -239,6 +240,7 @@
         android:layout_height="wrap_content"
         android:textSize="13sp"
         android:layout_marginStart="@dimen/_10dp"
+        android:visibility="gone"
         android:backgroundTint="@color/red"
         android:text="Female"/>
 
@@ -246,6 +248,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="13sp"
+        android:checked="true"
         android:layout_marginStart="@dimen/_10dp"
         android:backgroundTint="@color/red"
         android:text="Anyone"/>

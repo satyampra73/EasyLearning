@@ -2,8 +2,8 @@ package com.db.easylearning.apphelper;
 
 public class URLs {
 
-    public static final String BaseUrl="https://panel.speakify.co.in/webservices/";
-    public static final String ForImageURL="https://panel.speakify.co.in/";
+    public static final String BaseUrl="https://panel.easylearning24.com/webservices/";
+    public static final String ForImageURL="https://panel.easylearning24.com/";
     public static final String TongueTwister=BaseUrl+"toungue";
     public static final String EnglishTips=BaseUrl+"english_tips";
     public static final String DailyConversation=BaseUrl+"daily_conversation";
