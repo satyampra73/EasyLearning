@@ -74,7 +74,7 @@ public class HomeFragment extends Fragment {
 
 
     Switch switchStatus;
-    private TextView txtModeStatus, txtUserName;
+    private TextView txtModeStatus, txtUserName,txtText1,txtText2;
     private Dialog dialogProgress;
     LinearLayout ltAvailableSwitch;
     GoogleSignInClient mGoogleSignInClient;
@@ -109,6 +109,8 @@ public class HomeFragment extends Fragment {
         cardNotificationCount = view.findViewById(R.id.cardNotificationCount);
         cardNotificationCount.setVisibility(View.GONE);
         txtNotiCount = view.findViewById(R.id.txtNotiCount);
+        txtText1=view.findViewById(R.id.txtText1);
+        txtText2=view.findViewById(R.id.txtText2);
 
 
         sharedPreferences = getActivity().getSharedPreferences(Preferences.PREFER_NAME, MODE_PRIVATE);
@@ -268,8 +270,14 @@ public class HomeFragment extends Fragment {
 
                             editor.apply();
 
+                            //setting home text
+                            txtText1.setText(data.optString("text1"));
+                            txtText2.setText(data.optString("text2"));
+
+
                             versionCode = data.optString("version_code");
                             strNotiCount = data.optString("noticount");
+
 
                             Log.d("planCCode", versionCode);
                             int versionCodeInt = BuildConfig.VERSION_CODE;

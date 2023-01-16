@@ -3,7 +3,7 @@
     <string name="title_home">Home</string>
     <string name="title_learn">Learn</string>
     <string name="title_Profile">Profile</string>
-    <string name="banner_add_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_add_id">ca-app-pub-6524265470331989~5020353814</string>
 
     <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar" />
     <!-- TODO: Remove or change this placeholder text -->

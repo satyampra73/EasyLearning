@@ -31,7 +31,7 @@ public class AppConstants {
 //    public static final String AddUnitId ="ca-app-pub-3940256099942544/5224354917";
 
     //    rewarded video real
-    public static final String AddUnitId = "ca-app-pub-3940256099942544/5224354917";
+    public static final String AddUnitId = "ca-app-pub-6524265470331989~5020353814";
 
 
     private RewardedAd rewardedAd;

@@ -161,7 +161,7 @@
 
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@color/light_grey"
+                        android:background="@color/app_blue"
                         android:orientation="vertical">
 
                         <ImageView
@@ -182,7 +182,7 @@
                             android:layout_gravity="center"
                             android:layout_marginTop="@dimen/_10dp"
                             android:text="Tongue Twister"
-                            android:textColor="@color/black"
+                            android:textColor="@color/white"
                             android:textSize="13sp"
                             android:textStyle="bold" />
 
@@ -212,7 +212,7 @@
 
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@color/light_grey"
+                        android:background="@color/app_blue"
                         android:orientation="vertical">
 
                         <ImageView
@@ -233,7 +233,7 @@
                             android:layout_gravity="center"
                             android:layout_marginTop="@dimen/_10dp"
                             android:text="English Tips"
-                            android:textColor="@color/black"
+                            android:textColor="@color/white"
                             android:textSize="13sp"
                             android:textStyle="bold" />
 
@@ -270,7 +270,7 @@
 
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@color/light_grey"
+                        android:background="@color/app_blue"
                         android:orientation="vertical">
 
                         <ImageView
@@ -291,7 +291,7 @@
                             android:layout_gravity="center"
                             android:layout_marginTop="@dimen/_10dp"
                             android:text="Daily Conversation"
-                            android:textColor="@color/black"
+                            android:textColor="@color/white"
                             android:textSize="13sp"
                             android:textStyle="bold" />
 
@@ -322,7 +322,7 @@
 
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@color/light_grey"
+                        android:background="@color/app_blue"
                         android:orientation="vertical">
 
                         <ImageView
@@ -343,7 +343,7 @@
                             android:layout_gravity="center"
                             android:layout_marginTop="@dimen/_10dp"
                             android:text="Basic Grammar"
-                            android:textColor="@color/black"
+                            android:textColor="@color/white"
                             android:textSize="13sp"
                             android:textStyle="bold" />
 
@@ -378,7 +378,7 @@
 
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="@color/light_grey"
+                        android:background="@color/app_blue"
                         android:orientation="vertical">
 
                         <ImageView
@@ -399,7 +399,7 @@
                             android:layout_gravity="center"
                             android:layout_marginTop="@dimen/_10dp"
                             android:text="HR Interview"
-                            android:textColor="@color/black"
+                            android:textColor="@color/white"
                             android:textSize="13sp"
                             android:textStyle="bold" />
 

@@ -120,7 +120,6 @@
         android:layout_below="@+id/toolbar"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
-        android:background="@drawable/gradientbg"
         android:orientation="vertical">
 
         <TextView
@@ -129,7 +128,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="10dp"
             android:text="Start Talking In English With Strangers"
-            android:textColor="@color/white"
+            android:textColor="@color/app_blue"
             android:textSize="15sp"
             android:textStyle="bold" />
 
@@ -149,7 +148,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-
+            android:background="@drawable/home_image"
             android:orientation="vertical">
 
             <LinearLayout
@@ -159,19 +158,20 @@
                 android:layout_marginTop="@dimen/_10dp"
                 android:orientation="horizontal">
 
-                <!--                <TextView-->
-                <!--                    android:id="@+id/txtPractice"-->
-                <!--                    android:layout_width="wrap_content"-->
-                <!--                    android:layout_height="wrap_content"-->
-                <!--                    android:text="Hello, "-->
-                <!--                    android:textColor="@color/black"-->
-                <!--                    android:textSize="17sp" />-->
-                <pl.droidsonroids.gif.GifImageView
-                    android:layout_width="@dimen/_35dp"
-                    android:layout_height="@dimen/_35dp"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/hi" />
+
+                                <TextView
+                                    android:id="@+id/txtPractice"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hello, "
+                                    android:textColor="@color/white"
+                                    android:textSize="17sp" />
+<!--                <pl.droidsonroids.gif.GifImageView-->
+<!--                    android:layout_width="@dimen/_35dp"-->
+<!--                    android:layout_height="@dimen/_35dp"-->
+<!--                    android:layout_gravity="center_horizontal"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:src="@drawable/hi" />-->
 
 
                 <TextView
@@ -179,9 +179,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="5dp"
-                    android:layout_marginTop="6dp"
                     android:text="Satyam"
-                    android:textColor="@color/black"
+                    android:textColor="@color/white"
                     android:textSize="17sp" />
 
 
@@ -191,27 +190,30 @@
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
                 android:layout_marginStart="10dp"
-                android:layout_marginTop="-10dp"
+
                 android:layout_marginEnd="50dp"
                 android:background="@color/grey" />
 
             <TextView
+                android:id="@+id/txtText1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="@dimen/_10dp"
                 android:layout_marginTop="5dp"
                 android:layout_marginEnd="@dimen/_10dp"
-                android:text="Don't be hesitated !! and start talking in English to anyone.\n"
-                android:textColor="@color/black"
+                android:text=""
+                android:textColor="@color/white"
                 android:textSize="12sp" />
 
             <TextView
+                android:id="@+id/txtText2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="@dimen/_10dp"
                 android:layout_marginEnd="@dimen/_10dp"
-                android:text="** NOTE MANDATORY TO SPEAK ENGLISH ON CALL"
-                android:textColor="@color/black"
+                android:layout_marginTop="@dimen/_5dp"
+                android:text=""
+                android:textColor="@color/white"
                 android:textSize="10sp" />
 
 <LinearLayout
@@ -249,6 +251,7 @@
         android:layout_height="wrap_content"
         android:textSize="13sp"
         android:checked="true"
+        android:visibility="gone"
         android:layout_marginStart="@dimen/_10dp"
         android:backgroundTint="@color/red"
         android:text="Anyone"/>
@@ -268,7 +271,7 @@
         android:layout_below="@+id/card"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:background="@drawable/callbtnbg"
+        android:background="@drawable/call_btn_bg2"
         android:elevation="20dp"
         android:orientation="horizontal">
 
